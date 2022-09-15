@@ -1,5 +1,7 @@
 # solvemined
 
+![alt text](https://github.com/brevinowens/solvemined/blob/main/Resources/solvemined.png?raw=true)
+
 ## Project Proposal:
 
 ### Question from the client: "What is the relationship, if any, between the enrollment of students by state and the revenue of public instiutions? Additionally, does financial aid impact enrollment henceforth affecting the revenue of these institutions?" 
