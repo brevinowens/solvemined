@@ -28,4 +28,7 @@ link: [Enrollment](https://nces.ed.gov/ipeds/TrendGenerator/app/build-table/2/2?
 
 This last table shows the number of students enrolled in schools by state and student level.
 
+### We will be using a nonrelational data base as we were able to combine all the data into one dataframe. One database seemed the most logical as there are not ids for every data entry, either by state, some form of student id, or yearly id. 
+
 ### Extract:
+
